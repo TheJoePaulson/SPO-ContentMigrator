@@ -4,7 +4,7 @@ A Windows desktop tool for SharePoint Online list and library migrations within 
 inventory, copy and move with folder structure and metadata, CSV-driven runs, list item copy with
 attachments, retry from log, and "create from existing" / "modernize" for lists.
 
-![Content Migrator - Main App Window](images/screenshot.png?raw=true)
+![Content Migrator - Main App Window](https://imgur.com/Vcvyr2Y "Content Migrator - Main App Window")
 
 Built on .NET 8 (WPF) with Microsoft's own libraries only:
 
