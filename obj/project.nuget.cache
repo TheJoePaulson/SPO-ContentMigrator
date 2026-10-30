@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4k76p0t+3E=",
+  "success": true,
+  "projectFilePath": "C:\\Scripts\\App-ContentMigrator\\v1.0\\ContentMigrator.CommunityEdition_build1\\ContentMigrator.CommunityEdition\\ContentMigrator.CommunityEdition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulsonj\\.nuget\\packages\\microsoft.identity.client\\4.92.0\\microsoft.identity.client.4.92.0.nupkg.sha512",
+    "C:\\Users\\paulsonj\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\paulsonj\\.nuget\\packages\\microsoft.sharepointonline.csom\\16.1.27709.12000\\microsoft.sharepointonline.csom.16.1.27709.12000.nupkg.sha512",
+    "C:\\Users\\paulsonj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\paulsonj\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
