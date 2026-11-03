@@ -5,7 +5,7 @@
 ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
 ![WPF](https://img.shields.io/badge/UI-WPF-5C2D91)
 ![SharePoint Online](https://img.shields.io/badge/SharePoint-Online-0078D4?logo=microsoftsharepoint)
-![License](https://img.shields.io/github/license/YOURORG/ContentMigrator.CommunityEdition)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 A Windows desktop tool for SharePoint Online list and library migrations within one tenant:
 inventory, copy and move with folder structure and metadata, CSV-driven runs, list item copy with
