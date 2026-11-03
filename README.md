@@ -1,11 +1,11 @@
 # Content Migrator - Community Edition
 
 
-![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
-![WPF](https://img.shields.io/badge/UI-WPF-5C2D91)
-![SharePoint Online](https://img.shields.io/badge/SharePoint-Online-0078D4?logo=microsoftsharepoint)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&style=flat)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat)
+![WPF](https://img.shields.io/badge/UI-WPF-5C2D91?style=flat)
+![SharePoint Online](https://img.shields.io/badge/SharePoint-Online-0078D4?logo=microsoftsharepoint&style=flat)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat)
 
 A Windows desktop tool for SharePoint Online list and library migrations within one tenant:
 inventory, copy and move with folder structure and metadata, CSV-driven runs, list item copy with
